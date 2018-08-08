@@ -8,7 +8,7 @@ This is to demonstrate how to make a beautiful, tiny npm package and publish it
 ## Install
 
 ```
-$ npm install @melitus/tiny-npm-package
+$ npm install @melitus/tiny-npm
 ```
 ## Usage
 
