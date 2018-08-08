@@ -9,6 +9,11 @@ This is to demonstrate how to make a beautiful, tiny npm package and publish it
 ## Install
 
 ```
-$ npm install @melitus/tiny
+$ npm install @melitus/tiny-npm-package
 ```
+## Usage
 
+```js
+import {doRegister, doLogin, doLogout} = require("@melitus/tiny-npm-package");
+
+```
