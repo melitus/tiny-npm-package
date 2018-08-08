@@ -1,6 +1,15 @@
-{
-    "name": "@melitus/tiny",
-    "version": "1.0.0"
-
-    }
     
+    {
+        "name": "@melitus/tiny-npm-package",
+        "version": "1.0.0",
+        "description": "",
+        "license": "MIT",
+        "repository": "melitus/tiny-npm-package",
+        "main": "index.js",
+        "keywords": [
+          "tiny-npm-package",
+          "npm",
+          "package",
+          "melitus"
+        ]
+      }
