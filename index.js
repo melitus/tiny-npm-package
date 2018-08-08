@@ -54,3 +54,4 @@ export const doLogout = () =>
             return error;
         });
 
+export default index;
